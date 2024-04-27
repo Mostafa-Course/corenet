@@ -253,7 +253,7 @@ For license details, see [LICENSE](LICENSE).
 CoreNet evolved from CVNets, to encompass a broader range of applications beyond computer vision. Its expansion facilitated the training of foundational models, including LLMs.
 
 ## Citation
-
+this is my change
 If you find our work useful, please cite the following paper:
 
 ``` 
